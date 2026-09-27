@@ -9,5 +9,3 @@ Information Systems student & developer based in Ethiopia, building a strong fou
 - 📧 Email: `nahomtaye1924@gmail.com`
 
 ---
-
-*Student by day. Builder by night.*
